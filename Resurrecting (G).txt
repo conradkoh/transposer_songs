@@ -1,9 +1,3 @@
-[Intro] 
-
-C     C     Em     D
-C     C     Em     D
-
-
 [Verse 1]
 
               C        Em            D
@@ -39,7 +33,6 @@ Your name, Your name is victory
     C           G       D
 All praise will rise to Christ our King
 
-
 [Verse 3]
 
               C       Em        D
@@ -51,19 +44,7 @@ His final breath upon the cross
         C       G
 Is now alive in me
 
-[Chorus] x2
-
-     C          G       D
-Your name, Your name is victory
-     C          G       D
-All praise will rise to Christ our King
-     C          G       D
-Your name, Your name is victory
-    C           G       D
-All praise will rise to Christ our King
-
-
-[Bridge] x2
+[Bridge]
 
 C       G             D             Em           C
 By Your Spirit I will rise from the ashes of defeat
@@ -73,15 +54,6 @@ The resurrected King is resurrecting me
 In Your name I come alive to declare Your victory
       G         D       Em    
 The resurrected King is resurrecting me
-
-
-[Instrumental] (same as bridge)
-
-C G D Em C
-G D Em C
-G D Em C
-G D Em
-
 
 [Verse 4]
 
@@ -95,57 +67,3 @@ His body there would not remain
 Our God has robbed the grave
             C           G
 Our God has robbed the grave
-
-
-[Chorus] 
-
-     C          G       D
-Your name, Your name is victory
-     C          G       D
-All praise will rise to Christ our King
-     C          G       D
-Your name, Your name is victory
-    C           G       D
-All praise will rise to Christ our King
-
-
-[Bridge] 
-
-C       G             D             Em           C
-By Your Spirit I will rise from the ashes of defeat
-      G         D        Em               C
-The resurrected King is resurrecting me
-        G           D        Em                C
-In Your name I come alive to declare Your victory
-      G         D       Em    
-The resurrected King is resurrecting me
-
-
-[Bridge] 
-
-( Just Drums For First Half)
-
- N.C. 
-By Your Spirit I will rise from the ashes of defeat
- N.C. 
-The resurrected King is resurrecting me
-  (Begin Build)
-        G           D        Em                C
-In Your name I come alive to declare Your victory
-                            (Break On C All In)
-    G           D       Em            C
-The resurrected King is resurrecting me
-
-
-[Bridge] (All In)
-
-C       G             D             Em           C
-By Your Spirit I will rise from the ashes of defeat
-      G         D        Em               C
-The resurrected King is resurrecting me
-        G           D        Em                C
-In Your name I come alive to declare Your victory
-      G         D       Em    
-The resurrected King is resurrecting me
-      G         D       Em    
-The resurrected King is resurrecting me

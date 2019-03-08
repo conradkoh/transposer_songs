@@ -1,80 +1,80 @@
-[Intro] E
+[Intro] D
 
 [Verse 1]
 
-E                                    
+D                                    
 In the quiet
-A
+G
 In the stillness 
-     F#m             B
+     Em             A
 I know that You are God 
-E              
+D              
 In the secret, 
-A
+G
 Of Your presence
-     F#m             B
+     Em             A
 I know there I am restored
-F#m   E    E/G#      A      B     
+Em   D    D/F#      G      A     
 When You call I won't refuse 
-F#m   E    E/G#      A      B    
+Em   D    D/F#      G      A    
 Each new day again I'll choose
 
 
 [Chorus]
 
-C#m7             A    E   B    
+Bm7             G    D   A    
 There is no one else for me
-  F#m
+  Em
 None but Jesus
-C#m7          A   E   B                                    
+Bm7          G   D   A                                    
 Crucified to set me free
-        F#m
+        Em
 now I live to bring Him praise
 
 
 [Verse 2]
 
-E                                
+D                                
 In the chaos
-A
+G
 In confusion 
-     F#m                  B
+     Em                  A
 I know You're sovereign still
-E
+D
 In the moment 
-A
+G
 Of my weakness
-       F#m             B
+       Em             A
 You give me grace to do Your will
-F#m   E    E/G#      A      B   
+Em   D    D/F#      G      A   
 So when You call I won't delay
-F#m   E    E/G#      A      B   
+Em   D    D/F#      G      A   
 This my song through all my days
   
 
 [Chorus]
 
-C#m7             A    E   B    
+Bm7             G    D   A    
 There is no one else for me
-  F#m
+  Em
 None but Jesus
-C#m7          A   E   B                                    
+Bm7          G   D   A                                    
 Crucified to set me free
-        F#m
+        Em
 now I live to bring Him praise
 
-C#m7 A  E  B 
+Bm7 G  D  A 
 
 
 [Bridge]
 
-C#m7      A        E      B
+Bm7      G        D      A
 All my delight is in You Lord
-           F#m
+           Em
 All of my hope
 
 All of my strength
-C#m7      A        E      B
+Bm7      G        D      A
 All my delight is in You Lord
-          F#m
+          Em
 Forever more
